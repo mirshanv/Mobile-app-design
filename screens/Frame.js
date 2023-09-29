@@ -17,7 +17,7 @@ const Frame = () => {
                 contentFit="cover"
                 source={require("../assets/group-33.png")}
               />
-              
+                  
               <Text style={[styles.text, styles.amcTypo]}>78%</Text>
             </View>
           </View>
